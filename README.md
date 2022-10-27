@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michyoss. I'm currently on a sabbatical year, travelling around the world and pursuing personal study endeavours.
-- 👨‍💻 I have several years AWS Operations experience, and am currently experimenting with Flutter app development.
+- 👨‍💻 I have several years AWS Operations experience.
 - 🧠 I have a psychology degree from Monash University, and an interest in the digital transformation space (Industry 4.0, etc).
 - 👀 I’m interested in solutions that bring people and communities closer together, particularly through technology.
 - 📫 More mumbo jumbo can be found on my LinkedIn at https://www.linkedin.com/in/michyoss.
