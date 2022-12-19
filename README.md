@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michyoss. I'm currently on a sabbatical year, travelling around the world and pursuing personal study endeavours.
+- 👋 Hi, I’m @michyoss.
 - 👨‍💻 I've worked primarily in TechOps/DevOps.
 - 🧠 I have a psychology degree from Monash University, and an interest in the digital transformation space (Industry 4.0, etc).
 - 👀 I’m interested in solutions that bring people and communities closer together, particularly through technology.
